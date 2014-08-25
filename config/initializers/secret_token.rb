@@ -1,0 +1,1 @@
+FirstApp::Application.config.secret_key_base = 'c7bf253d5922f4480c1daa47d53b531e4073d0ea3007d3c014cee2d173593d26a8c5760170cda93dc7269fb077e3ee353'
